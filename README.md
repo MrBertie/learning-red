@@ -23,3 +23,16 @@ Red
 [Getting Started With Red](http://redprogramming.com/Getting%20Started.html): Red fundamentals; a nice straight-forward tutorial.
 
 [Short Red Code Examples](http://redprogramming.com/Short%20Red%20Code%20Examples.html): Some useful examples to accompany the tutorial above.
+
+[Official Red -lang Documentation](http://doc.red-lang.org): The official red-language documentation site, quite bare at the moment but improving.  View and VID are well covered.
+
+[Beginners reference guide](http://www.mycode4fun.co.uk/red-beginners-reference-guide): a few specific coding examples. 
+> "The idea of this guide is to give a quick reference to  gui level programmers.
+It is not extensive and more will be added as and when I get chance.
+My aim is to keep it simple. Remember it's not just about seasoned programmers.
+Novice programmers and students WILL be put off by over complicated Terminology.
+Examples are in no particular order."
+
+[Red discussion on Google Groups](https://groups.google.com/forum/#!forum/red-lang): not to active yet, but a good place to get an answer from those who know Red well including some developers. 
+
+[Red Gitter discussion sites](https://github.com/red/red/wiki/Gitter-Room-Index): a list of various Gitter chat rooms, for developers,  users, documentions,  etc. 
