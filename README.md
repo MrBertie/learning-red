@@ -16,6 +16,17 @@ Rebol
 > "REBOL is the easiest computer programming language to learn.
 > REBOL is a tiny (1/2 megabyte) interpreter that uses "Domain Specific Language" (DSL) technology and a combination of other truly unique syntax and design strategies to make simple work of every imaginable coding task. Compare this tutorial to texts about any other programming language, and you'll quickly discover that REBOL is a remarkably concise and practical tool, regardless of your skill level. For immediately productive development, there is nothing else like REBOL, anywhere."
 
+[Rebol Quickstart Tutorial - Part 1](http://re-bol.com/rebol_quick_start.html)
+[Rebol Quickstart Tutorial - Part 2](http://re-bol.com/rebol_quick_start_part2.html)
+
+[Creating Business Apps with Rebol](http://business-programming.com/business_programming.html): a vast tutorial full of examples and mini-apps, showing how Rebol can be used for business programming.
+
+[Rebol Bindology](http://blog.revolucent.net/2009/07/deep-rebol-bindology.html?m=1): understanding how the Word object binding works.
+
+[rebol.org](http://rebol.org/): many links and Rebol scripts contributed by users over the years.
+
+[Rebol: list of useful reference links on the forum](http://www.rebolforum.com/index.cgi?f=printtopic&topicnumber=49&archiveflag=new)
+
 Red
 ------
 [Red-By-Example](http://www.red-by-example.org/): currently the best reference to the Red language.  Provides a list of all Red words, concepts and functions, and an example of their usage.  Regularly updated.
@@ -36,3 +47,11 @@ Examples are in no particular order."
 [Red discussion on Google Groups](https://groups.google.com/forum/#!forum/red-lang): not to active yet, but a good place to get an answer from those who know Red well including some developers. 
 
 [Red Gitter discussion sites](https://github.com/red/red/wiki/Gitter-Room-Index): a list of various Gitter chat rooms, for developers,  users, documentions,  etc. 
+
+[Red Commandline Options](https://github.com/red/red/blob/master/README.md): mainly how to compile a Red executable.
+
+[Red Code Examples](https://github.com/red/code): a few mainly GUI code examples, plus a couple for the new React feature.
+
+[Red Parse Dialect](http://www.red-lang.org/2013/11/041-introducing-parse.html): a tutorial and how-to page.
+
+
